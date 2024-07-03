@@ -11,4 +11,4 @@
 
 ### - ML 개론
 - Part 1. Introduction to Machine Learning (2024/7/2)
-
+- Part 2. Bias and Variance (2024/7/3)
