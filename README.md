@@ -13,3 +13,6 @@
 - Part 1. Introduction to Machine Learning (2024/7/2)
 - Part 2. Bias and Variance (2024/7/3)
 - Part 3. Recent Process of Large Language Models (2024/7/4)
+
+### - Mathematics for ML
+- Part 1. Matrix Decomposition (2024/7/13)
